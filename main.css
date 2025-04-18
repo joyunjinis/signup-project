@@ -86,9 +86,7 @@ button {
   background-color: #0056b3;
 }
 
-input.submit {
-  background-color: transparent;
-  border: none;
+p.info {
+  font-size: 8px;
   color: red;
-  outline: none;
 }
